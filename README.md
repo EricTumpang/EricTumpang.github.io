@@ -9,5 +9,14 @@
 - Successfully managed and validated quarterly, semi-annual, and annual donor reports, achieving 100% on-time submission and acceptance by funding agencies.
 - Strengthened data quality assurance processes through routine verification, field monitoring, and partner coaching, reducing reporting errors and improving indicator reliability.
 - Provided MEAL capacity development to national and sub-national partners, resulting in improved compliance with MEL systems, tools, and reporting standards.
-- 
+
+# Skills and Expertise
+MEL Systems & Frameworks: Results-based monitoring, indicator development, logframes, CMEP, PMP, DQA, learning agendas, adaptive management
+
+Data & Analytics: Data collection, cleaning, validation, analysis, visualization, performance tracking, database design
+
+Tools & Platforms: Python, Microsoft Excel, Airtable, BI tools, Kobo, Google Forms, MS Office
+
+Capacity Building & Learning: Partner onboarding, training facilitation, feedback mechanisms, pause-and-reflect sessions, after-action reviews
+
 
