@@ -1,1 +1,20 @@
-body{font-family:Arial;} header{background:#003366;color:#fff;padding:20px;} nav a{margin-right:15px;}
+
+.contact-list {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+.contact-list li {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.contact-list a {
+  text-decoration: none;
+  color: #003366;
+}
+
+.contact-list a:hover {
+  text-decoration: underline;
+}
