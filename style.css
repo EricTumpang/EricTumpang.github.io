@@ -1,4 +1,65 @@
 
+/* ===== MEL CARD LAYOUT ===== */
+.card {
+  background: #ffffff;
+  padding: 30px;
+  margin-bottom: 35px;
+  border-radius: 12px;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.08);
+}
+
+/* MEL-themed colors */
+.about {
+  border-left: 8px solid #00509e;
+  background: #f0f6ff;
+}
+
+.work {
+  border-left: 8px solid #2b8a3e;
+  background: #f3faf5;
+}
+
+.achievement {
+  border-left: 8px solid #e67700;
+  background: #fff4e6;
+}
+
+.skills {
+  border-left: 8px solid #7048e8;
+  background: #f6f4ff;
+}
+
+/* Headings */
+.card h2 {
+  margin-top: 0;
+  color: #003366;
+}
+
+/* Lists */
+.card ul {
+  padding-left: 20px;
+}
+
+.card li {
+  margin-bottom: 8px;
+}
+
+/* CV Button */
+.cv-btn {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 12px 24px;
+  background: #00509e;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 6px;
+}
+
+.cv-btn:hover {
+  background: #003366;
+}
+
 /* ===== BASE STYLE ===== */
 body {
   font-family: Arial, Helvetica, sans-serif;
